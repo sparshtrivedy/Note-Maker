@@ -1,0 +1,17 @@
+svg {
+  color: white;
+}
+
+li {
+  background-color: #f1f3f3;
+  border-radius: 7px;
+  border: #b5b6b6 solid 1px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+
+ul {
+  list-style: none;
+  padding-right: 10px;
+}
